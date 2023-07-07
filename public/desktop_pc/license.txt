@@ -1,0 +1,11 @@
+Model Information:
+* title:	Laptop Concept
+* source:	https://sketchfab.com/3d-models/laptop-concept-81498159661a48479bcceadc37fe36b8
+* author:	Jiahui QIU (https://sketchfab.com/jiahuiqiu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Laptop Concept" (https://sketchfab.com/3d-models/laptop-concept-81498159661a48479bcceadc37fe36b8) by Jiahui QIU (https://sketchfab.com/jiahuiqiu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
